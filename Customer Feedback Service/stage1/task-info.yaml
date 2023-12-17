@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: src/feedbackservice/Application.kt
+    visible: true
+  - name: build.gradle
+    visible: true
+  - name: test/FeedbackItem.java
+    visible: false
+  - name: test/FeedbackServiceTests.java
+    visible: false
+  - name: src/resources/application.properties
+    visible: true
+  - name: src/feedbackservice/feedback/FeedbackDocument.kt
+    visible: true
+  - name: src/feedbackservice/feedback/FeedbackRepository.kt
+    visible: true
+  - name: src/feedbackservice/feedback/FeedbackUploadRequest.kt
+    visible: true
+  - name: src/feedbackservice/feedback/FeedbackRestController.kt
+    visible: true
